@@ -1,3 +1,6 @@
 # Proof Test
+```math
 
-$\frac{1}{2}$
+\frac{1}{2}
+
+```
